@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1d4ed8"/>
+  <!-- 오행 원형 배치 -->
+  <circle cx="256" cy="140" r="52" fill="#2e8b57" opacity="0.9"/>
+  <circle cx="380" cy="220" r="52" fill="#e2483d" opacity="0.9"/>
+  <circle cx="330" cy="370" r="52" fill="#d4a017" opacity="0.9"/>
+  <circle cx="182" cy="370" r="52" fill="#9aa0a6" opacity="0.9"/>
+  <circle cx="132" cy="220" r="52" fill="#2b6cb0" opacity="0.9"/>
+  <!-- 로또 공 느낌의 흰 하이라이트 -->
+  <circle cx="244" cy="128" r="16" fill="white" opacity="0.4"/>
+  <circle cx="368" cy="208" r="16" fill="white" opacity="0.4"/>
+  <circle cx="318" cy="358" r="16" fill="white" opacity="0.4"/>
+  <circle cx="170" cy="358" r="16" fill="white" opacity="0.4"/>
+  <circle cx="120" cy="208" r="16" fill="white" opacity="0.4"/>
+</svg>
